@@ -8,11 +8,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   public ngOnInit(){
-    // $(document).ready(function(){
-    //  $('#but0').click(function(){
-    //    $('#land').slideUp()
-    //    $('#det').show();
-    //  })
-    // });
+   
   }
 }
