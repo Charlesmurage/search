@@ -1,0 +1,37 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+.search-form{
+    margin-top: 100px;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Baloo Chettan', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Varela Round', sans-serif;
+    margin-top: 20px;
+}
+.form-control{
+    width: 40%;
+}
+#but{
+    margin-top: -67px;
+    padding: 3px;
+    margin-left: 300px;
+}
+.deets, .list-group-item{
+    opacity: 0.8;
+}
+.stats>span{
+    margin: 5px;
+}
+
+#link{
+    font-size: 30px;
+    color: white;
+}
+#link:hover{
+    text-decoration: none;
+    color: yellow;
+}
